@@ -1,0 +1,13 @@
+name: explorador_insolacion
+title:
+username:
+account: ficlima
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9206796
+bundleId: 7285908
+url: https://ficlima.shinyapps.io/explorador_insolacion/
+when: 1685528531.88561
+lastSyncTime: 1685528531.88563
+asMultiple: FALSE
+asStatic: FALSE
